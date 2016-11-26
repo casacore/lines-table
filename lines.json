@@ -1,0 +1,20 @@
+[
+    { "name": "C109A", "frequency": 5.01142 },
+    { "name": "CI", "frequency": 0.32876 },
+    { "name": "CII166A", "frequency":  1.42545 },
+    { "name": "DI", "frequency": 0.327384 },
+    { "name": "H107A", "frequency": 5.29373 },
+    { "name": "H110A", "frequency": 4.87416 },
+    { "name": "H138B", "frequency": 4.89778 },
+    { "name": "H166A", "frequency": 1.42473 },
+    { "name": "H240A", "frequency": 0.472828 },
+    { "name": "H272A", "frequency": 0.324992 },
+    { "name": "H2CO", "frequency": 4.82966 },
+    { "name": "HE110A", "frequency": 4.87614 },
+    { "name": "HE138B", "frequency": 4.89977 },
+    { "name": "HI", "frequency": 1.42041 },
+    { "name": "OH1612", "frequency": 1.61223 },
+    { "name": "OH1665", "frequency": 1.6654 },
+    { "name": "OH1667", "frequency": 1.66736 },
+    { "name": "OH1720", "frequency": 1.72053 }
+]
